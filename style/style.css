@@ -1,0 +1,202 @@
+
+header.photoHeader {
+    background: url("../src/header.jpg") repeat-x top center;
+    position: relative;
+    background-size: 1600px;
+    min-height: 190px;
+
+}
+
+
+header.photoHeader .button{
+    position: absolute;
+    right: 100px;
+    top: 30px;
+
+
+}
+
+
+header.photoHeader .button button{
+        width:  120px;
+        border: none;   
+        margin:  6px;
+
+}
+header.photoHeader hr{
+    background: #020104;
+    height: 50px;
+    width: 100%;
+
+    position: absolute;
+    bottom: -25px;
+
+}
+
+header.photoHeader p{
+    position: absolute;
+    bottom: -12px;
+    left: 230px;
+    color: white;
+
+}
+
+header.photoHeader img{
+    height: 100px;
+    position: absolute;
+    bottom: -35px;
+    left: 100px;
+    background: white;
+    border-radius: 100px;
+
+}
+
+nav.main_nav{
+    background: #020104;
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    bottom: 0;
+
+
+
+
+}
+
+nav.main_nav ul{
+    position: absolute;
+    right: 100px;
+    display: inline;
+    padding: 0;
+    margin: 0;
+    bottom: 4px;
+
+}
+
+nav.main_nav ul li{
+    padding: 0 10px ;
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+nav.main_nav ul li a{
+    color: #F7F7F6;
+    border-left: rgba(0,0,0,0) 3px solid;
+    border-right: rgba(0,0,0,0) solid;
+
+}
+
+nav.main_nav ul li a:hover{
+
+    /*box-shadow: inset 0 0 20px #858585;*/
+    text-decoration: none;
+    border-bottom: #A2F2F2 3px solid;
+
+
+}
+
+body {
+    background: rgb(1,13,38);
+    background: linear-gradient(90deg, rgba(1,13,38,0.9416141456582633) 0%, rgba(2,94,115,0.9472163865546218) 30%, rgba(1,18,43,0.8855917366946778) 65%, rgba(2,90,111,0.9416141456582633) 100%);
+}
+
+
+main .sesonContent div img{
+    width: 200px;
+}
+/*
+main .sesonContent h2{
+    padding-bottom: 30px
+}
+
+
+main .sesonContent{
+
+    text-align: center;
+    width: 70%;
+
+    margin-left: 100px;
+    margin-right: 100px;
+    background: #BEBAB5;
+    padding-top: 10px; 
+    padding-bottom: 60px;
+    margin-bottom: 50px; 
+
+    border: black 3px solid;
+}
+
+
+main .aboutUs{
+    width: 70%;
+    padding-top: 50px;
+    padding: 10px;
+    color: black;
+    background: white;
+    margin: 50px 100px;
+
+
+    border: black 3px solid;
+}
+
+
+
+main .new_anime{
+
+    float: right;
+
+    background: #BEBAB5;
+
+
+    border: black 3px solid;
+}
+
+
+*/
+main .new_anime div img{
+    display: block;
+    width: 150px;
+    height: 210px;
+    padding: 10px;
+    position: relative;
+    left: 45px;
+
+}
+
+main section.team h1{
+    text-align: center;
+    background: #BEBAB5;
+    color: black;
+    margin: 20px 300px;
+}
+
+
+
+main section.team details{
+    background: #BEBAB5;
+    color: black;
+    margin: 20px 100px;
+
+}
+
+main section.team details summary:focus{
+
+    border-bottom: #A2F2F2 3px solid;
+}
+
+main section.team details summary:hover{
+    border-bottom: #A2F2F2 3px solid;
+}
+
+
+
+footer{
+    background: #020104;
+    position: relative;
+    bottom: -32px;
+    height: 70px;
+    width: 100%;
+
+}
+
+

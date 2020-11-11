@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68e9bfc6-3394-4827-8be2-06a5659652d7" name="Default Changelist" comment="5">
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Less File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1iaaf2Bd2u0HEyjDxtoufFj5CEi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PhpLocalRunConfigurationType" factoryName="PHP Console" nameIsGenerated="true" path="$PROJECT_DIR$/index.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68e9bfc6-3394-4827-8be2-06a5659652d7" name="Default Changelist" comment="" />
+      <created>1602148255496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602148255496</updated>
+      <workItem from="1602148256608" duration="785000" />
+      <workItem from="1602149127814" duration="6057000" />
+      <workItem from="1602220721735" duration="725000" />
+      <workItem from="1602222501275" duration="7179000" />
+      <workItem from="1602430810217" duration="7727000" />
+      <workItem from="1602438790055" duration="69000" />
+      <workItem from="1602445192048" duration="266000" />
+      <workItem from="1602445476666" duration="2814000" />
+      <workItem from="1602481302260" duration="92000" />
+      <workItem from="1602515119067" duration="18000" />
+      <workItem from="1602515305236" duration="4616000" />
+      <workItem from="1602580775633" duration="510000" />
+      <workItem from="1602608407551" duration="2182000" />
+      <workItem from="1602701987616" duration="1789000" />
+      <workItem from="1602766321869" duration="2197000" />
+      <workItem from="1602825493644" duration="1958000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1602445949937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602445949937</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Sec">
+      <created>1602481381548</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602481381548</updated>
+    </task>
+    <task id="LOCAL-00003" summary="5">
+      <created>1602516239697</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602516239697</updated>
+    </task>
+    <task id="LOCAL-00004" summary="5">
+      <created>1602518875127</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602518875127</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <MESSAGE value="Sec" />
+    <MESSAGE value="5" />
+    <option name="LAST_COMMIT_MESSAGE" value="5" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="82" key="#Inspections" timestamp="1602149999375">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="309" y="82" key="#Inspections/0.40.1366.728@0.40.1366.728" timestamp="1602149999375" />
+    <state x="390" y="47" key="#PHP" timestamp="1602149702060">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="390" y="47" key="#PHP/0.40.1366.728@0.40.1366.728" timestamp="1602149702060" />
+    <state x="137" y="40" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602608435704">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="137" y="40" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1366.728@0.40.1366.728" timestamp="1602608435704" />
+    <state x="352" y="182" key="EditFileWatcherDialog" timestamp="1602149402929">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="352" y="182" key="EditFileWatcherDialog/0.40.1366.728@0.40.1366.728" timestamp="1602149402929" />
+    <state x="463" y="159" key="FileChooserDialogImpl" timestamp="1602149688971">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="463" y="159" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1602149688971" />
+    <state x="517" y="327" key="NewPhpFileDialog" timestamp="1602148268792">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="517" y="327" key="NewPhpFileDialog/0.40.1366.728@0.40.1366.728" timestamp="1602148268792" />
+    <state x="184" y="49" key="SettingsEditor" timestamp="1602149403763">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="184" y="49" key="SettingsEditor/0.40.1366.728@0.40.1366.728" timestamp="1602149403763" />
+    <state x="275" y="137" key="Vcs.Push.Dialog.v2" timestamp="1602518883014">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="275" y="137" key="Vcs.Push.Dialog.v2/0.40.1366.728@0.40.1366.728" timestamp="1602518883014" />
+    <state x="500" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602481343353">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="500" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1366.728@0.40.1366.728" timestamp="1602481343353" />
+    <state x="339" y="182" key="run.anything.popup" timestamp="1602517681847">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="339" y="182" key="run.anything.popup/0.40.1366.728@0.40.1366.728" timestamp="1602517681847" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602517611907">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.40.1366.728@0.40.1366.728" timestamp="1602517611907" />
+  </component>
+</project>
